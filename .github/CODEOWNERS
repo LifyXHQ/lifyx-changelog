@@ -1,0 +1,13 @@
+# LifyX CODEOWNERS
+
+# Default owner for the entire repository
+* @LifyX-Exchange
+
+# Changelog and release documentation
+*.md @LifyX-Exchange
+
+# Security policy
+SECURITY.md @LifyX-Exchange
+
+# License
+LICENSE @LifyX-Exchange
